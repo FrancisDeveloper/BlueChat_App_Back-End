@@ -15,7 +15,7 @@ router.put('/edit/:id', (req, res) => {
     res.send('Editar sub usuario')
 })
 router.delete('/delete/:id', (req, res) => {
-    res.send('Eliminar 1 sub usuario')
+    res.send('Eliminar 1 sub-usuario')
 })
 
 
